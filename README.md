@@ -1,6 +1,6 @@
 {
     "user": {
-        "email": ""raik1996@gmail.com",
+        "email": "raik1996@gmail.com",
         "username": "gre1pk",
         "bio": null,
         "image": "https://api.realworld.io/images/smiley-cyrus.jpeg",
